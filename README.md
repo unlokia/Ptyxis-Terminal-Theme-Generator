@@ -8,5 +8,7 @@ Open the html file in your favourite browser, customise your theme colours, name
 
 ~/.local/share/org.gnome.Ptyxis/palettes
 
+... (or use ptyxis --install-palette filename.palette) to select it inside Ptyxis preferences.
+
 Your theme should now be listed in Ptyxis preferences. 
  
